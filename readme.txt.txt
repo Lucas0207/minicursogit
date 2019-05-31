@@ -1,4 +1,4 @@
-minicurso git
+minicurso git IFSP
 
 --
 
