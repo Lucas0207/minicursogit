@@ -1,4 +1,4 @@
-minicurso git IFSP
+minicurso git IFSP Araraquara
 
 --
 
